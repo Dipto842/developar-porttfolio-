@@ -14,11 +14,11 @@ body{
     padding: 0;
 
 }
-.hedar_2{
+/* .hedar_2{
     background-image: url(/images/developer.png);
     background-repeat: no-repeat;
     background-position:  left;
-}
+} */
 nav{
     display: flex;
    justify-content: space-between;
