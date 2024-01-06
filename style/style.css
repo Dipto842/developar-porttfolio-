@@ -7,18 +7,18 @@ body{
 .header{
     background: #FFF8F3;
  
-    background-image: url("/images/header_bg.png");
+    background-image: url(images/header_bg.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     margin: 0;
     padding: 0;
 
 }
-/* .hedar_2{
-    background-image: url(/images/developer.png);
+.hedar_2{
+    background-image: url("images/developer.png");
     background-repeat: no-repeat;
     background-position:  left;
-} */
+}
 nav{
     display: flex;
    justify-content: space-between;
